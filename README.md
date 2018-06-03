@@ -11,3 +11,8 @@ The core idea of GANs is to combine two neural networks with distinct tasks: a *
 > The generative model can be thought of as analogous to a team of counterfeiters, trying to produce fake currency and use it without detection, while the discriminative model is analogous to the police, trying to detect the counterfeit currency. Competition in this game drives both teams to improve their methods until the counterfeits are indistiguishable from the genuine articles.
 
 In this notebook, I present a simple and straightforward implementation of GANs and how they can be used in practice. If you have any question, suggestions, etc., feel free to contact me!
+
+If you want to learn more about GANs, I would recommend to start with:
+
+1. [Goodfellow et al.'s original GAN paper](https://arxiv.org/abs/1406.2661)
+2. [Ian Goodfellow's Tutorial](https://www.youtube.com/watch?v=YpdP_0-IEOw)
