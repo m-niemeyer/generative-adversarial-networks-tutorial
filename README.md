@@ -2,7 +2,8 @@
 
 This is an introduction to [Generative Adversarial Networks (GANs)](https://arxiv.org/abs/1406.2661) and how they can be used to generate photos of handwritten digits. In particular, we will use an architecture that is is similar to the [DCGAN](https://arxiv.org/abs/1511.06434) proposed by Radford et al.
 
-<p align="center">![Final Results](final_img.png)</p>
+![Final Results](final_img.png)
+<sub>Generated images of random numbers</sub>
 
 The core idea of GANs is to combine two neural networks with distinct tasks: a **generator** and a **descriminator**. The first tries to produce realistic images from random noise, while the latter tries to distinguish the generated images from the *real* images. The following analogy is taken from Goodfellow et al.'s [original paper on GANs](https://arxiv.org/abs/1406.2661):
 
