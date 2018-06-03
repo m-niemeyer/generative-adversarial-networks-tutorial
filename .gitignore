@@ -1,4 +1,5 @@
 mnist_train.csv
 train_data.p
 .git
+.ipynb_checkpoints
 
